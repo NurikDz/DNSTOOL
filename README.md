@@ -53,6 +53,7 @@ The repo includes:
 
 - DNS changes apply to the **Wi-Fi** service.
 - Tested on macOS 13+ (uses `SMAppService` for the login item).
+<img width="349" height="257" alt="Screenshot 2026-06-30 at 1 48 31 AM" src="https://github.com/user-attachments/assets/7971490a-ba44-4441-ade1-e1aa78cfd105" />
 
 ## License
 GPL v3.0.
