@@ -55,5 +55,4 @@ The repo includes:
 - Tested on macOS 13+ (uses `SMAppService` for the login item).
 
 ## License
-
-MIT
+GPL v3.0.
