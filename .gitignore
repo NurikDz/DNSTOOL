@@ -1,0 +1,10 @@
+# Hidden / system files (anything starting with a dot)
+.*
+!.gitignore
+
+# Build artifacts
+*.app/
+*.dmg
+*.iconset/
+build/
+DerivedData/
